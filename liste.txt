@@ -426,4 +426,17 @@ ads.tiktok.com
 ads-sg.tiktok.com
 business.tiktok.com
 analytics.tiktok.com
+tiktokcdn.com
+tiktokcdn-us.com
+tiktokcdn.com.edgekey.net
+tiktokv.com
+tiktokd.com
+ads.tiktok.com
+ads-sg.tiktok.com
+analytics.tiktok.com
+business.tiktok.com
+log.tiktokv.com
+mon.tiktokv.com
+dns.google
+doh.opendns.com
 
