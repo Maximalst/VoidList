@@ -440,3 +440,11 @@ mon.tiktokv.com
 dns.google
 doh.opendns.com
 
+
+megakino.org
+megakino.de
+magekino.tv
+megakino.co
+megakino.to
+megakino.com.ua
+
