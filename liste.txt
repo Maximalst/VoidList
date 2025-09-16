@@ -7659,3 +7659,43 @@ snssdk123.com
 0.0.0.0	pull-g5-tt04.tiktokcdn.com.c.bytefcdn-oversea.com
 0.0.0.0	p16-common-sign-useastred.tiktokcdn-eu.com
 0.0.0.0	rc-verification16-normal-no1a.tiktokv.eu
+
+
+
+amemv.com
+api-h2.tiktokv.com
+api.tiktokv.com
+api2-16-h2.musical.ly
+api2.musical.ly
+api21-h2.tiktokv.com
+bytecdn.cn
+byted.org
+byteoversea.com
+ib.tiktokv.com
+ibytedtos.com
+ibyteimg.com
+log.tiktokv.com
+log2.musical.ly
+logs.tiktokv.com
+m.tiktok.com
+mon.musical.ly
+muscdn.com
+musemuse.cn
+musical.ly
+p16-tiktokcdn-com.akamaized.net
+pstatp.com
+snssdk.com
+snssdk123.com
+ssvideo1.com
+tiktok.com
+tiktok.com.c.footprint.net
+tiktok.net
+tiktokcdn.com
+tiktokcdn.com.c.worldfcdn.com
+tiktokcdn.liveplay.myqcloud.com
+tiktokv.com
+tiktokv.com.c.footprint.net
+v.tiktok.net
+v16a.tiktokcdn.com
+v16m.tiktokcdn.com
+v19.tiktokcdn.com
