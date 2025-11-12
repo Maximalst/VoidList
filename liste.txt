@@ -7699,3 +7699,7 @@ v.tiktok.net
 v16a.tiktokcdn.com
 v16m.tiktokcdn.com
 v19.tiktokcdn.com
+
+dreamgames.com
+*.dreamgames.com
+
