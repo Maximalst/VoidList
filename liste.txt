@@ -1,4 +1,6 @@
 contents.prod.rylmtch.com
+contents.prod.rylmtch.com
+game-server.prod.royalmatch.drmgms.com
 
 
 temu.com
