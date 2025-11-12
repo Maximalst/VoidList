@@ -1,6 +1,7 @@
 contents.prod.rylmtch.com
 contents.prod.rylmtch.com
 game-server.prod.royalmatch.drmgms.com
+us-central1-royal-match-prod-cce6d.cloudfunctions.net
 
 
 temu.com
